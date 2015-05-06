@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 6381d08c22c00119f90174c7af1f7e8278f8a7fc
 this is a text document;.;lmklm
 this is a text document;.;lmklm
 this is a text document;.;lmklm
@@ -16,6 +19,9 @@ this is a text document;.;lmklm
 this is a text document;.;lmklm
 this is a text document;.;lmklm
 
+<<<<<<< HEAD
+=======
 =======
 this is a text document;.;lmklm
 >>>>>>> efac5982c2ba098b218763a723c223a7eb7fca47
+>>>>>>> 6381d08c22c00119f90174c7af1f7e8278f8a7fc
